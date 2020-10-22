@@ -26,7 +26,7 @@ public class ReverseNumber {
             System.out.println(a);
 
             rev=rev*10+a%10; // rev= 416
-
+ 
             System.out.println(rev);
   
             a=a/10;
